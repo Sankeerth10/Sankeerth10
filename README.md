@@ -14,4 +14,4 @@ LinkedIn: https://www.linkedin.com/in/sankeerth-koduri
 ![Sankeerth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sankeerth10&theme=algolia&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sankeerth10&layout=compact&theme=algolia)](https://github.com/Sankeerth10/github-readme-stats)
 
 
-[linkedin]: https://www.linkedin.com/in/mohammedcontractor/
+[linkedin]: https://www.linkedin.com/in/sankeerth-koduri/
