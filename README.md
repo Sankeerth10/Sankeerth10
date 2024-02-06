@@ -1,10 +1,9 @@
 
-# Hi there, I'm Sankeerth Koduri - 👋 
+# Hi there, I'm Sankeerth Koduri
 
-- 🔭 I’m a CS graduate student in Concordia University, Montreal.
+- 🔭 I’m a CS graduate from Concordia University, Montreal.
 - 🌱 I’m currently learning new technologies and this is my canvas!
-- 💬 Ask me about anything
-- 📫 How to reach me: sankeerth.koduri@gmail.com
+- 📫 How to reach me: sankeerth.koduri10@outlook.com
 
 ### Connect with me:
 
