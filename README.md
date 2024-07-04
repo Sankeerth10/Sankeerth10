@@ -1,7 +1,7 @@
 
 # Hi there, I'm Sankeerth Koduri
 
-- 🔭 I’m a CS graduate from Concordia University, Montreal.
+- 🔭 I’m a Full-stack Developer working at Aptum Technologies.
 - 🌱 I’m currently learning new technologies and this is my canvas!
 - 📫 How to reach me: sankeerth.koduri10@outlook.com
 
